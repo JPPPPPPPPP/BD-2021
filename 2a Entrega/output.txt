@@ -1,0 +1,21 @@
+Query A
+1234567890125,straberry Milk
+3214567890123,Low Fat Milk
+
+Query B
+232323232,soupplier
+454545454,le suplier
+676767676,the non primary dude
+
+Query C
+2
+
+Query D
+121212121,el suplemento
+
+Query E
+el suplemento,121212121
+le suplier,454545454
+
+Query F
+4,left
